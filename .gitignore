@@ -5,3 +5,8 @@
 # data folder
 /data
 /lorawan-devices
+
+# IOTstack compatibility
+/volumes/
+/backups/
+
