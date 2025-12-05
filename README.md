@@ -105,7 +105,7 @@ $ git clone https://github.com/Paraphraser/chirpstack-docker.git chirpstack
 
 Note:
 
-* this differs from the official ChirpStack [getting starter](https://www.chirpstack.io/docs/getting-started/docker.html) documentation which does not specify a folder name on the `git clone` command. The result is a folder named `chirpstack-docker` which then becomes the Docker "project name" and, in turn, contributes to excessive wordiness in Docker displays.
+* this differs from the official ChirpStack [getting started](https://www.chirpstack.io/docs/getting-started/docker.html) documentation which does not specify a folder name on the `git clone` command. The result is a folder named `chirpstack-docker` which then becomes the Docker "project name" and, in turn, contributes to excessive wordiness in Docker displays.
 * If you make a mistake and omit the `chirpstack` folder name, simply rename the folder:
 
 	``` console
